@@ -1,2 +1,3 @@
-# terraform-provider-demo-repo
-Repository created with full access token
+# Provider Demo Repo
+
+This repo demonstrates Terraform provider configs with different auth tokens.
